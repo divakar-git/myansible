@@ -1,0 +1,22 @@
+---
+- mystudents:
+    - name: divakar
+      phno: 2839930308
+      address:
+        - doorNo: 8383939
+        - street: 383839
+        - pinCode: 3930302209
+
+    - name: manasa
+      phno: 939933098
+      address:
+        - doorNo: 8383939
+        - street: 383839
+        - pinCode: 3930302209
+
+    - name: madhu
+      phno: 288239338
+      address:
+        - doorNo: 8383939
+        - street: 383839
+        - pinCode: 3930302209
